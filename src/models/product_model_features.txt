@@ -1,0 +1,5 @@
+Day
+Month
+DayOfWeek
+PreviousDaySales
+SalesLast7Days
