@@ -1,6 +1,26 @@
+
+# Python environment and cache
 venv/
 __pycache__/
-*.pyc
+*.py[cod]
 .ipynb_checkpoints/
+
+# Environment variables
 .env
+.env.*
+
+# OS and editor files
 .DS_Store
+Thumbs.db
+.vscode/
+
+# Temporary testing files
+invalid_test.csv
+invalid_values_test.csv
+missing_columns_test.csv
+
+# Project structure snapshots
+project_structure.txt
+
+# External datasets
+data/external/
